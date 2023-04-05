@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "REB_Transcoder")(type "KiCad")(uri "${KIPRJMOD}/Libraries/REB_Transcoder.pretty")(options "")(descr ""))
+)

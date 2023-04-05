@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "REB_Transcoder")(type "KiCad")(uri "${KIPRJMOD}/Libraries/REB_Transcoder.kicad_sym")(options "")(descr ""))
+)
