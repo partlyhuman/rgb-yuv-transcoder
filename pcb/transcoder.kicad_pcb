@@ -6386,9 +6386,6 @@
   (gr_text "@partlyhuman variant" (at 159.5 75.5) (layer "F.SilkS") (tstamp 320fdfde-8d73-40fd-afc8-e6e14a907b5d)
     (effects (font (size 0.8128 0.8128) (thickness 0.1524) bold) (justify left bottom))
   )
-  (gr_text "Get the files!" (at 143 78) (layer "F.SilkS") (tstamp ddbec4e6-6598-45cd-8cb3-8a0fc5bd4ee7)
-    (effects (font (size 0.8128 0.8128) (thickness 0.1524) bold) (justify left bottom))
-  )
 
   (segment (start 133.0375 107.9625) (end 137 107.9625) (width 0.2) (layer "F.Cu") (net 1) (tstamp 18891682-8565-4834-a5b1-8cc8db6973dd))
   (segment (start 130.8 105.8) (end 133 108) (width 0.2) (layer "F.Cu") (net 1) (tstamp 3e989f24-e488-4b0e-b9c0-80a090b18b39))
