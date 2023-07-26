@@ -1,3 +1,9 @@
+## @partlyhuman changes
+
+The [PCB](pcb/) directory includes a fully SMD (except for the BA7230) version of the transcoder that incorporates connectors: Mini DIN-9 for RGBS input, and RCA jacks for component output.
+
+---
+
 # Dek's RGB-to-Component-Transcoder
 A DIY RGB to Component Video Transcoder to make your own video conversion boxes. 
 
